@@ -1,0 +1,7 @@
+flask
+python-dotenv
+line-bot-sdk
+openai
+pandas
+numpy
+faiss-cpu
